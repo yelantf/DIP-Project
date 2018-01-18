@@ -1,0 +1,13 @@
+uniform -0.1 0.2
+
+rely -0.3 0.04
+
+gamma 15 2
+
+exp 15
+
+gaussian -0.1 0.1
+
+salt 0.05 0.05
+
+Ziggurat algorithm

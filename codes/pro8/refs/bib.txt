@@ -1,0 +1,10 @@
+@article{vincent1993morphological,
+  title={Morphological grayscale reconstruction in image analysis: Applications and efficient algorithms},
+  author={Vincent, Luc},
+  journal={IEEE transactions on image processing},
+  volume={2},
+  number={2},
+  pages={176--201},
+  year={1993},
+  publisher={IEEE}
+}
